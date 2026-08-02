@@ -1,3 +1,5 @@
+<img src="images/neteclogo.png" alt="logo" width="300"/>
+
 # Copilot chat en suministros
 
 El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios reales de operación en Suministros. No aborda conceptos básicos de la herramienta, sino su aplicación directa sobre información proveniente de Excel, Power BI, sistemas ERP y documentación operativa.
@@ -44,8 +46,12 @@ El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios rea
 - Preparación de checklists de cumplimiento y adaptación
   - Duración estimada: 96 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.

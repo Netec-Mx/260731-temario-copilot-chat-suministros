@@ -15,7 +15,7 @@ El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios rea
 - Identificación de materiales, proveedores y rutas críticas
 - Generación de alertas tempranas para inventarios y suministros críticos
 - Conversión de datos en conclusiones y recomendaciones accionables
-  - Duración estimada: 72 min
+  - Duración estimada: 60 min
 
 ### Capítulo 2
 
@@ -24,7 +24,7 @@ El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios rea
 - Análisis comparativo de proveedores, prácticas operativas y modelos logísticos
 - Identificación de tendencias y supuestos de mercado
 - Uso responsable de información externa como insumo para análisis interno
-  - Duración estimada: 72 min
+  - Duración estimada: 60 min
 
 ### Capítulo 3
 
@@ -33,7 +33,7 @@ El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios rea
 - Evaluación de claridad, ambigüedades y riesgos en documentos
 - Generación de procedimientos, instructivos y checklists
 - Mejora de comunicaciones con proveedores y operadores logísticos
-  - Duración estimada: 96 min
+  - Duración estimada: 90 min
 
 ### Capítulo 4
 
@@ -42,7 +42,7 @@ El curso se centra en el uso práctico de Copilot Chat aplicado a escenarios rea
 - Identificación de riesgos operativos y puntos de falla
 - Análisis conceptual del impacto de cambios normativos y regulatorios
 - Preparación de checklists de cumplimiento y adaptación
-  - Duración estimada: 96 min
+  - Duración estimada: 90 min
 
 ## Flujo de colaboración
 
